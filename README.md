@@ -1,10 +1,10 @@
 # dotfiles
 My linux setup
 
-/n Manjaro(initially kde, but switched to i3) 
-/n I3
-I3-blocks
-Picom
+Manjaro(initially kde, but switched to i3) /
+I3 /
+I3-blocks /
+Picom /
 Polybar
 Rofi for EVERYTHING!
 Alacritty
