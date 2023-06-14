@@ -1,8 +1,8 @@
 # dotfiles
 My linux setup
 
-Manjaro(initially kde, but switched to i3)
-I3
+/n Manjaro(initially kde, but switched to i3) 
+/n I3
 I3-blocks
 Picom
 Polybar
