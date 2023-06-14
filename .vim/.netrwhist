@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/matheus/.config/rofi-themes/rofi/files/launchers/type-7'
+let g:netrw_dirhist_3='/home/matheus/.config/rofi-themes/rofi/files/launchers'
+let g:netrw_dirhist_2='/home/matheus/.config/rofi-themes/rofi/files'
+let g:netrw_dirhist_1='/home/matheus/.config/rofi-themes/rofi/files/launchers'
