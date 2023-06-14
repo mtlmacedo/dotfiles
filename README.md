@@ -1,7 +1,7 @@
 # dotfiles
 My linux setup
 
-Manjaro(initially kde, but switched to i3) /
+Manjaro(initially kde, but switched to i3) \
 I3 /
 I3-blocks /
 Picom /
